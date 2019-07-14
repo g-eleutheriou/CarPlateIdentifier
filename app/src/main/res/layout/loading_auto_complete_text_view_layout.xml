@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="wrap_content">
+
+    <com.george.eleftheriou.carplateidentifier.application.RegionAutoCompleteTextView
+        android:id="@+id/text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/main_view_placeholder"
+        android:imeOptions="flagNoExtractUi|actionSearch"
+        android:theme="@style/Autocomplete"
+        android:textColor="@android:color/black"
+        android:popupBackground="@android:color/white"
+        android:paddingRight="15dp" />
+
+    <ProgressBar
+        android:id="@+id/progress_indicator"
+        style="?android:attr/progressBarStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|right"
+        android:layout_marginRight="15dp"
+        android:visibility="gone"/>
+
+</FrameLayout>

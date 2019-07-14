@@ -1,0 +1,4628 @@
+[
+    {
+        "code": "AB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Aschaffenburg, Bavaria",
+        "id": 1
+    },
+    {
+        "code": "ABG",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Altenburger Land, Thuringia",
+        "id": 2
+    },
+    {
+        "code": "AC",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Aachen, North-Rhine-Westphalia",
+        "id": 3
+    },
+    {
+        "code": "AH",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Ahaus, North-Rhine-Westphalia",
+        "id": 4
+    },
+    {
+        "code": "AIB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bad Aibling, Bavaria",
+        "id": 5
+    },
+    {
+        "code": "AIC",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Aichach-Friedberg, Bavaria",
+        "id": 6
+    },
+    {
+        "code": "AE",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Auerbach, Saxony",
+        "id": 7
+    },
+    {
+        "code": "AK",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Altenkirchen (Westerwald), Rhineland Palatinate",
+        "id": 8
+    },
+    {
+        "code": "AL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Altena, North-Rhine-Westphalia",
+        "id": 9
+    },
+    {
+        "code": "ALF",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Alfeld, Lower Saxony",
+        "id": 10
+    },
+    {
+        "code": "ALS",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Alsfeld, Hesse",
+        "id": 11
+    },
+    {
+        "code": "ALZ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Alzenau, Bavaria",
+        "id": 12
+    },
+    {
+        "code": "AM",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Amberg, Bavaria",
+        "id": 13
+    },
+    {
+        "code": "AN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Ansbach, Bavaria",
+        "id": 14
+    },
+    {
+        "code": "ANA",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Annaberg-Buchholz, Saxony",
+        "id": 15
+    },
+    {
+        "code": "ANG",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Angermünde, Brandenburg",
+        "id": 16
+    },
+    {
+        "code": "ANK",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Anklam, Mecklenburg-Vorpommern",
+        "id": 17
+    },
+    {
+        "code": "AÖ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Altötting, Bavaria",
+        "id": 18
+    },
+    {
+        "code": "AP",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Apolda & Weimarer Land, Thuringia",
+        "id": 19
+    },
+    {
+        "code": "APD",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Apolda, Thuringia",
+        "id": 20
+    },
+    {
+        "code": "AR",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Arnsberg, North-Rhine-Westphalia",
+        "id": 21
+    },
+    {
+        "code": "ARN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Arnstadt, Thuringia",
+        "id": 22
+    },
+    {
+        "code": "ART",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Artern, Thuringia",
+        "id": 23
+    },
+    {
+        "code": "AS",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Amberg-Sulzbach, Bavaria",
+        "id": 24
+    },
+    {
+        "code": "ASD",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Aschendorf, Lower Saxony",
+        "id": 25
+    },
+    {
+        "code": "ASL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Aschersleben-Staßfurter Landkreis, Saxony-Anhalt",
+        "id": 26
+    },
+    {
+        "code": "ASZ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Aue-Schwarzenberg, Saxony",
+        "id": 27
+    },
+    {
+        "code": "AT",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Alten-Treptow, Mecklenburg-Vorpommern",
+        "id": 28
+    },
+    {
+        "code": "AU",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Aue, Saxony",
+        "id": 29
+    },
+    {
+        "code": "AUR",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Aurich, Lower Saxony",
+        "id": 30
+    },
+    {
+        "code": "AW",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Ahrweiler, Rhineland Palatinate",
+        "id": 31
+    },
+    {
+        "code": "AZ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Alzey-Worms, Rhineland Palatinate",
+        "id": 32
+    },
+    {
+        "code": "AZE",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Anhalt-Zerbst, Saxony-Anhalt",
+        "id": 33
+    },
+    {
+        "code": "B",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Berlin",
+        "id": 34
+    },
+    {
+        "code": "BA",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bamberg, Bavaria",
+        "id": 35
+    },
+    {
+        "code": "BAD",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Baden-Baden, Baden-Württemberg",
+        "id": 36
+    },
+    {
+        "code": "BAR",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Barnim (Eberswalde), Brandenburg",
+        "id": 37
+    },
+    {
+        "code": "BB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Böblingen, Baden-Württemberg",
+        "id": 38
+    },
+    {
+        "code": "BBG",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bernburg, Saxony-Anhalt",
+        "id": 39
+    },
+    {
+        "code": "BBL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Brandenburg Land official vehicles",
+        "id": 40
+    },
+    {
+        "code": "BC",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Biberach, Baden-Württemberg",
+        "id": 41
+    },
+    {
+        "code": "BCH",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Buchen, Baden-Württemberg",
+        "id": 42
+    },
+    {
+        "code": "BD",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Federal German government vehicles (Bundestag / Bundesrat / Bundesrepublik Deutschland)",
+        "id": 43
+    },
+    {
+        "code": "BE",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bechum, North-Rhine-Westphalia",
+        "id": 44
+    },
+    {
+        "code": "BED",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Brand-Erbisdorf, Saxony",
+        "id": 45
+    },
+    {
+        "code": "BEI",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Beilingries, Bavaria",
+        "id": 46
+    },
+    {
+        "code": "BEL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Blezig, Brandenburg",
+        "id": 47
+    },
+    {
+        "code": "BER",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bernau, Brandenburg",
+        "id": 48
+    },
+    {
+        "code": "BF",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Burgsteinfurt, North-Rhine-Westphalia",
+        "id": 49
+    },
+    {
+        "code": "BG",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Border police vehicles (Bundesgrenzschutz)",
+        "id": 50
+    },
+    {
+        "code": "BGD",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Berchtesgaden, Bavaria",
+        "id": 51
+    },
+    {
+        "code": "BGL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Berchtesgardener Land, Bavaria",
+        "id": 52
+    },
+    {
+        "code": "BH",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bühl, Baden-Württenmberg",
+        "id": 53
+    },
+    {
+        "code": "BI",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bielefeld, North-Rhine-Westphalia",
+        "id": 54
+    },
+    {
+        "code": "BID",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Biedenkopf, Hesse",
+        "id": 55
+    },
+    {
+        "code": "BIN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bingen, Rhineland Palatinate",
+        "id": 56
+    },
+    {
+        "code": "BIR",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Birkenfeld, Rhineland Palatinate",
+        "id": 57
+    },
+    {
+        "code": "BIT",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bitburg-Prüm, Rhineland Palatinate",
+        "id": 58
+    },
+    {
+        "code": "BIW",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bischofswerda, Saxony",
+        "id": 59
+    },
+    {
+        "code": "BK",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bicknang, Baden-Württemberg",
+        "id": 60
+    },
+    {
+        "code": "BKS",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bernkastel, Rhineland Palatinate",
+        "id": 61
+    },
+    {
+        "code": "BL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Balingen & Zollernalbkreis, Baden-Württemberg",
+        "id": 62
+    },
+    {
+        "code": "BLB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bad Berleburg, North-Rhine-Westphalia",
+        "id": 63
+    },
+    {
+        "code": "BLK",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Burgenlandkreis, Saxony-Anhalt",
+        "id": 64
+    },
+    {
+        "code": "BM",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bergheim & Erftkreis, North-Rhine-Westphalia",
+        "id": 65
+    },
+    {
+        "code": "BN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bonn, North-Rhine-Westphalia",
+        "id": 66
+    },
+    {
+        "code": "BNA",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Borna, Saxony",
+        "id": 67
+    },
+    {
+        "code": "BO",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bochum, North-Rhine-Westphalia",
+        "id": 68
+    },
+    {
+        "code": "BÖ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bördekreis, Saxony-Anhalt",
+        "id": 69
+    },
+    {
+        "code": "BOG",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bogen, Bavaria",
+        "id": 70
+    },
+    {
+        "code": "BOH",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bocholt, North-Rhine-Westphalia",
+        "id": 71
+    },
+    {
+        "code": "BOR",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Borkum, North-Rhine-Westphalia",
+        "id": 72
+    },
+    {
+        "code": "BOT",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bottrop, North-Rhine-Westphalia",
+        "id": 73
+    },
+    {
+        "code": "BP",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Postal authority vehicles (Bundespost)",
+        "id": 74
+    },
+    {
+        "code": "BR",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bruchsal, Baden-Württemberg",
+        "id": 75
+    },
+    {
+        "code": "BRA",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Brake (Unterweser) & Wesermarsch, Lower Saxony",
+        "id": 76
+    },
+    {
+        "code": "BRB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Brandenburg, Brandenburg",
+        "id": 77
+    },
+    {
+        "code": "BRG",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Burg, Saxony-Anhalt",
+        "id": 78
+    },
+    {
+        "code": "BRI",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Brilon, North-Rhine-Westphalia",
+        "id": 79
+    },
+    {
+        "code": "BRK",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bad Brückenau, Bavaria",
+        "id": 80
+    },
+    {
+        "code": "BRL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Braunlage, Lower Saxony",
+        "id": 81
+    },
+    {
+        "code": "BRV",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bremervörde, Lower Saxony",
+        "id": 82
+    },
+    {
+        "code": "BS",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Brunswick (Braunschweig), Lower Saxony",
+        "id": 83
+    },
+    {
+        "code": "BSB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bersenbrück, Lower Saxony",
+        "id": 84
+    },
+    {
+        "code": "BSK",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Beeskow, Brandenburg",
+        "id": 85
+    },
+    {
+        "code": "BT",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bayreuth, Bavaria",
+        "id": 86
+    },
+    {
+        "code": "BTF",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bitterfeld, Saxony-Anhalt",
+        "id": 87
+    },
+    {
+        "code": "BU",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Burgdorf, Lower Saxony",
+        "id": 88
+    },
+    {
+        "code": "BÜD",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Büdingen, Hesse",
+        "id": 89
+    },
+    {
+        "code": "BUL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Burglengenfeld, Bavaria",
+        "id": 90
+    },
+    {
+        "code": "BUR",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Buren, North-Rhine-Westphalia",
+        "id": 91
+    },
+    {
+        "code": "BÜS",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Büsingen & Konstanz, Baden-Württemberg",
+        "id": 92
+    },
+    {
+        "code": "BÜZ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bützow, Mecklenburg-Vorpommern",
+        "id": 93
+    },
+    {
+        "code": "BW",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Maritime authority vehicles (Bundes-Wasser- und Schiffahrtsverwaltung)",
+        "id": 94
+    },
+    {
+        "code": "BWL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Badem-Württemberg Land official vehicles",
+        "id": 95
+    },
+    {
+        "code": "BYL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bavaria State (Bayern Land) official vehicles",
+        "id": 96
+    },
+    {
+        "code": "BZ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bautzen, Saxony",
+        "id": 97
+    },
+    {
+        "code": "BZA",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bergzabern, Rhineland Palatinate",
+        "id": 98
+    },
+    {
+        "code": "C",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Chemnitz, Saxony",
+        "id": 99
+    },
+    {
+        "code": "CA",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Calau, Brandenburg",
+        "id": 100
+    },
+    {
+        "code": "CAS",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Castrop-Rauxel, North-Rhine-Westphalia",
+        "id": 101
+    },
+    {
+        "code": "CB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Cottbus, Brandenburg",
+        "id": 102
+    },
+    {
+        "code": "CE",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Celle, Lower Saxony",
+        "id": 103
+    },
+    {
+        "code": "CHA",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Cham, Bavaria",
+        "id": 104
+    },
+    {
+        "code": "CLP",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Cloppenburg, Lower Saxony",
+        "id": 105
+    },
+    {
+        "code": "CLZ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Clausthal-Zellerfeld, Lower Saxony",
+        "id": 106
+    },
+    {
+        "code": "CO",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Coburg, Bavaria",
+        "id": 107
+    },
+    {
+        "code": "COC",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Cochem-Zell, Rhineland Palatinate",
+        "id": 108
+    },
+    {
+        "code": "COE",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Coesfeld, North-Rhine-Westphalia",
+        "id": 109
+    },
+    {
+        "code": "CR",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Crailsheim, Baden-Württemberg",
+        "id": 110
+    },
+    {
+        "code": "CUX",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Cuxhaven, Lower Saxony",
+        "id": 111
+    },
+    {
+        "code": "CW",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Calw, Baden-Württemberg",
+        "id": 112
+    },
+    {
+        "code": "D",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Düsseldorf, North-Rhine-Westphalia",
+        "id": 113
+    },
+    {
+        "code": "DA",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Darmstadt & Darmstadt-Dieburg, Hesse",
+        "id": 114
+    },
+    {
+        "code": "DAH",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Dachau, Bavaria",
+        "id": 115
+    },
+    {
+        "code": "DAN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Lüchow-Dannenberg, Lower Saxony",
+        "id": 116
+    },
+    {
+        "code": "DAU",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Daun, Rhineland Palatinate",
+        "id": 117
+    },
+    {
+        "code": "DB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Rail authority vehicles (Deutsche Bundesbahn)",
+        "id": 118
+    },
+    {
+        "code": "DBR",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bad Doberan, Mecklenburg-Vorpommern",
+        "id": 119
+    },
+    {
+        "code": "DD",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Dresden",
+        "id": 120
+    },
+    {
+        "code": "DE",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Dessau, Saxony-Anhalt",
+        "id": 121
+    },
+    {
+        "code": "DEG",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Deggendorf, Bavaria",
+        "id": 122
+    },
+    {
+        "code": "DEL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Delmenhorst, Lower Saxony",
+        "id": 123
+    },
+    {
+        "code": "DGF",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Dingolfing-Landau, Bavaria",
+        "id": 124
+    },
+    {
+        "code": "DH",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Diepholz, Lower Saxony",
+        "id": 125
+    },
+    {
+        "code": "DI",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Dieburg, Hesse",
+        "id": 126
+    },
+    {
+        "code": "DIL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Dillenburg, Hesse",
+        "id": 127
+    },
+    {
+        "code": "DIN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Dinslaken, North-Rhine-Westphalia",
+        "id": 128
+    },
+    {
+        "code": "DIZ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Diez, Rhineland Palatinate",
+        "id": 129
+    },
+    {
+        "code": "DKB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Dinkelsbühl, Bavaria",
+        "id": 130
+    },
+    {
+        "code": "DL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Döbeln, Saxony",
+        "id": 131
+    },
+    {
+        "code": "DLG",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Dillingen an der Donau, Bavaria",
+        "id": 132
+    },
+    {
+        "code": "DM",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Demmin, Mecklenburg-Vorpommern",
+        "id": 133
+    },
+    {
+        "code": "DN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Düren, North-Rhine-Westphalia",
+        "id": 134
+    },
+    {
+        "code": "DO",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Dortmund, North-Rhine-Westphalia",
+        "id": 135
+    },
+    {
+        "code": "DON",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Donau-Ries, Bavaria",
+        "id": 136
+    },
+    {
+        "code": "DS",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Donaueschingen, Baden-Württemberg",
+        "id": 137
+    },
+    {
+        "code": "DT",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Detmold & Lippe, North-Rhine-Westphalia",
+        "id": 138
+    },
+    {
+        "code": "DU",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Duisburg, North-Rhine-Westphalia",
+        "id": 139
+    },
+    {
+        "code": "DUD",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Duderstadt, Lower Saxony",
+        "id": 140
+    },
+    {
+        "code": "DÜW",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bad Dürkheim & Weinstraße, Rhineland Palatinate",
+        "id": 141
+    },
+    {
+        "code": "DW",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Dippoldiswalde & Weißeritzkreis, Saxony",
+        "id": 142
+    },
+    {
+        "code": "DZ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Delitzsch, Saxony",
+        "id": 143
+    },
+    {
+        "code": "E",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Essen, North-Rhine-Westphalia",
+        "id": 144
+    },
+    {
+        "code": "EA",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Eisenach, Thuringia",
+        "id": 145
+    },
+    {
+        "code": "EB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Eilenburg, Saxony",
+        "id": 146
+    },
+    {
+        "code": "EBE",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Ebersberg, Bavaria",
+        "id": 147
+    },
+    {
+        "code": "EBN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Ebern, Bavaria",
+        "id": 148
+    },
+    {
+        "code": "EBS",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Ebermannstadt, Bavaria",
+        "id": 149
+    },
+    {
+        "code": "ECK",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Eckernförde, Schleswig-Holstein",
+        "id": 150
+    },
+    {
+        "code": "ED",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Erding, Bavaria",
+        "id": 151
+    },
+    {
+        "code": "EE",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Elbe-Elster, Brandenburg",
+        "id": 152
+    },
+    {
+        "code": "EF",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Erfurt, Thuringia",
+        "id": 153
+    },
+    {
+        "code": "EG",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Eggenfelden, Bavaria",
+        "id": 154
+    },
+    {
+        "code": "EH",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Eisenhüttenstadt, Brandenburg",
+        "id": 155
+    },
+    {
+        "code": "EHI",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Ehingen, Baden-Württemberg",
+        "id": 156
+    },
+    {
+        "code": "EI",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Eichstätt, Bavaria",
+        "id": 157
+    },
+    {
+        "code": "EIC",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Eichsfeld, Thuringia",
+        "id": 158
+    },
+    {
+        "code": "EIH",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Eichstätt, Bavaria",
+        "id": 159
+    },
+    {
+        "code": "EIL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Eisleben, Saxony-Anhalt",
+        "id": 160
+    },
+    {
+        "code": "EIN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Einbeck, Lower Saxony",
+        "id": 161
+    },
+    {
+        "code": "EL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Emsland, Lower Saxony",
+        "id": 162
+    },
+    {
+        "code": "EM",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Emmendingen, Baden-Württemberg",
+        "id": 163
+    },
+    {
+        "code": "EMD",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Emden, Lower Saxony",
+        "id": 164
+    },
+    {
+        "code": "EMS",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bad Ems & Rhein-Lahn-Kreis, Rhineland Palatinate",
+        "id": 165
+    },
+    {
+        "code": "EN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Ennepe-Ruhr-Kreis, North-Rhine-Westphalia",
+        "id": 166
+    },
+    {
+        "code": "ER",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Erlangen, Bavaria",
+        "id": 167
+    },
+    {
+        "code": "ERB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Erbach & Oldenwaldkreis, Hesse",
+        "id": 168
+    },
+    {
+        "code": "ERH",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Erlangen-Höchstadt, Bavaria",
+        "id": 169
+    },
+    {
+        "code": "ERK",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Erkelenz, North-Rhine-Westphalia",
+        "id": 170
+    },
+    {
+        "code": "ES",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Esslingen, Baden-Württemberg",
+        "id": 171
+    },
+    {
+        "code": "ESA",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Eisenach, Thuringia",
+        "id": 172
+    },
+    {
+        "code": "ESB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Eschenbach, Bavaria",
+        "id": 173
+    },
+    {
+        "code": "ESW",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Eschwege & Werra-Meißner-Kreis, Hesse",
+        "id": 174
+    },
+    {
+        "code": "EU",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Euskirchen, North-Rhine-Westphalia",
+        "id": 175
+    },
+    {
+        "code": "EUT",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Eutin, Schleswig-Holstein",
+        "id": 176
+    },
+    {
+        "code": "EW",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Eberswalde, Brandenburg",
+        "id": 177
+    },
+    {
+        "code": "F",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Frankfurt am Main, Hesse",
+        "id": 178
+    },
+    {
+        "code": "FAL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Fallingbostel, North-Rhine-Westphalia",
+        "id": 179
+    },
+    {
+        "code": "FB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Friedberg (Hessen) & Wetteraukreis, Hesse",
+        "id": 180
+    },
+    {
+        "code": "FD",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Fulda, Hesse",
+        "id": 181
+    },
+    {
+        "code": "FDB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Friedberg bei Augsburg, Bavaria",
+        "id": 182
+    },
+    {
+        "code": "FDS",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Freudenstadt, Baden-Württemberg",
+        "id": 183
+    },
+    {
+        "code": "FEU",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Feuchtwangen, Bavaria",
+        "id": 184
+    },
+    {
+        "code": "FF",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Frankfurt-an-der-Oder, Brandenburg",
+        "id": 185
+    },
+    {
+        "code": "FFB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Fürstenfeldbruck, Bavaria",
+        "id": 186
+    },
+    {
+        "code": "FG",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Freiberg, Saxony",
+        "id": 187
+    },
+    {
+        "code": "FH",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Frankfurt am Main/Höchst, Hesse",
+        "id": 188
+    },
+    {
+        "code": "FI",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Finsterwalde, Brandenburg",
+        "id": 189
+    },
+    {
+        "code": "FKB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Frankenberg, Hesse",
+        "id": 190
+    },
+    {
+        "code": "FL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Flensburg, Schleswig-Holstein",
+        "id": 191
+    },
+    {
+        "code": "FLÖ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Flöha, Saxony",
+        "id": 192
+    },
+    {
+        "code": "FN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Friedrichshafen & Bodenseekreis, Baden-Württemberg",
+        "id": 193
+    },
+    {
+        "code": "FO",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Forchheim, Bavaria",
+        "id": 194
+    },
+    {
+        "code": "FOR",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Forst, Brandenburg",
+        "id": 195
+    },
+    {
+        "code": "FR",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Freiburg im Breisgau & Breisgau-Hochschwarzwald, Baden-Württemberg",
+        "id": 196
+    },
+    {
+        "code": "FRG",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Freyung-Grafenau, Bavaria",
+        "id": 197
+    },
+    {
+        "code": "FRI",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Friesland, Lower Saxony",
+        "id": 198
+    },
+    {
+        "code": "FRW",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bad Freienwalde, Brandenburg",
+        "id": 199
+    },
+    {
+        "code": "FS",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Freising, Bavaria",
+        "id": 200
+    },
+    {
+        "code": "FT",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Frankenthal (Pfalz), Rhineland Palatinate",
+        "id": 201
+    },
+    {
+        "code": "FTL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Freital, Saxony",
+        "id": 202
+    },
+    {
+        "code": "FÜ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Fürth, Bavaria",
+        "id": 203
+    },
+    {
+        "code": "FÜS",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Füssen, Bavaria",
+        "id": 204
+    },
+    {
+        "code": "FW",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Fürstenwalde, Brandenburg",
+        "id": 205
+    },
+    {
+        "code": "FZ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Fritzlar, Hesse",
+        "id": 206
+    },
+    {
+        "code": "G",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Gera, Thuringia",
+        "id": 207
+    },
+    {
+        "code": "GA",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Gardelegen, Saxony Anhalt",
+        "id": 208
+    },
+    {
+        "code": "GAN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bad Gandersheim, Lower Saxony",
+        "id": 209
+    },
+    {
+        "code": "GAP",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Garmisch-Partenkirchen, Bavaria",
+        "id": 210
+    },
+    {
+        "code": "GC",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Glauchau & Chemnitzer Land, Saxony",
+        "id": 211
+    },
+    {
+        "code": "GD",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Gmünd, Baden-Württemberg",
+        "id": 212
+    },
+    {
+        "code": "GDB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Gadesbusch, Mecklenburg-Vorpommern",
+        "id": 213
+    },
+    {
+        "code": "GE",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Gelsenkirchen, North-Rhine-Westphalia",
+        "id": 214
+    },
+    {
+        "code": "GEL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Geldern, North-Rhine-Westphalia",
+        "id": 215
+    },
+    {
+        "code": "GEM",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Gemünden, Bavaria",
+        "id": 216
+    },
+    {
+        "code": "GEO",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Gerolzhofen, Bavaria",
+        "id": 217
+    },
+    {
+        "code": "GER",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Germersheim, Rhineland Palatinate",
+        "id": 218
+    },
+    {
+        "code": "GF",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Gifhorn, Lower Saxony",
+        "id": 219
+    },
+    {
+        "code": "GG",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Groß-Gerau, Hesse",
+        "id": 220
+    },
+    {
+        "code": "GHA",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Geithain, Saxony",
+        "id": 221
+    },
+    {
+        "code": "GHC",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Gräfenhainichen, Saxony Anhalt",
+        "id": 222
+    },
+    {
+        "code": "GI",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Gießen, Hesse",
+        "id": 223
+    },
+    {
+        "code": "GK",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Geilenkirchen, North-Rhine-Westphalia",
+        "id": 224
+    },
+    {
+        "code": "GL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bergisch-Gladbach & Rheinisch-Bergischer Kreis, North-Rhine-Westphalia",
+        "id": 225
+    },
+    {
+        "code": "GLA",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Gladbeck, North-Rhine-Westphalia",
+        "id": 226
+    },
+    {
+        "code": "GM",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Gummersbach & Oberbergischer Kreis, North-Rhine- Westphalia",
+        "id": 227
+    },
+    {
+        "code": "GMN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Grimmen, Mecklenburg-Vorpommern",
+        "id": 228
+    },
+    {
+        "code": "GN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Gelnhausen, Hesse",
+        "id": 229
+    },
+    {
+        "code": "GNT",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Genthin, Saxony Anhalt",
+        "id": 230
+    },
+    {
+        "code": "GÖ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Göttingen, Lower Saxony",
+        "id": 231
+    },
+    {
+        "code": "GOA",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "St Goar, Rheinland Palatinate",
+        "id": 232
+    },
+    {
+        "code": "GOH",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "St Goarshausen, Rheinland Palatinate",
+        "id": 233
+    },
+    {
+        "code": "GP",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Göppingen, Baden-Württemberg",
+        "id": 234
+    },
+    {
+        "code": "GR",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Görlitz, Saxony",
+        "id": 235
+    },
+    {
+        "code": "GRA",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Grafenau, Bavaria",
+        "id": 236
+    },
+    {
+        "code": "GRI",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Griesbach, Bavaria",
+        "id": 237
+    },
+    {
+        "code": "GRM",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Grimma, Saxony",
+        "id": 238
+    },
+    {
+        "code": "GRS",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Gransee, Brandenburg",
+        "id": 239
+    },
+    {
+        "code": "GRZ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Greiz, Thuringia",
+        "id": 240
+    },
+    {
+        "code": "GS",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Goslar, Lower Saxony",
+        "id": 241
+    },
+    {
+        "code": "GT",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Gütersloh, North-Rhine-Westphalia",
+        "id": 242
+    },
+    {
+        "code": "GTH",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Gotha, Thuringia",
+        "id": 243
+    },
+    {
+        "code": "GÜ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Güstrow, Mecklenburg-Vorpommern",
+        "id": 244
+    },
+    {
+        "code": "GUB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Guben, Brandenburg",
+        "id": 245
+    },
+    {
+        "code": "GUN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Gunzenhausen, Bavaria",
+        "id": 246
+    },
+    {
+        "code": "GV",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Gravenbroich, North-Rhine-Westphalia",
+        "id": 247
+    },
+    {
+        "code": "GVM",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Grevesmühlen, Mecklenburg-Vorpommern",
+        "id": 248
+    },
+    {
+        "code": "GW",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Greifswald Land, Mecklenburg-Vorpommern",
+        "id": 249
+    },
+    {
+        "code": "GZ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Günzburg, Bavaria",
+        "id": 250
+    },
+    {
+        "code": "H",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Hanover (Hannover), Lower Saxony",
+        "id": 251
+    },
+    {
+        "code": "HA",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Hagen, North-Rhine-Westphalia",
+        "id": 252
+    },
+    {
+        "code": "HAB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Hammelburg, Bavaria",
+        "id": 253
+    },
+    {
+        "code": "HAL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Halle, Saxony-Anhalt",
+        "id": 254
+    },
+    {
+        "code": "HAM",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Hamm, North-Rhine-Westphalia",
+        "id": 255
+    },
+    {
+        "code": "HAS",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Haßberge, Bavaria",
+        "id": 256
+    },
+    {
+        "code": "HB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Hansestadt Bremen",
+        "id": 257
+    },
+    {
+        "code": "HBN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Hildburghausen, Thuringia",
+        "id": 258
+    },
+    {
+        "code": "HBS",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Halberstadt, Saxony-Anhalt",
+        "id": 259
+    },
+    {
+        "code": "HC",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Hainichen, Saxony",
+        "id": 260
+    },
+    {
+        "code": "HCH",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Hechingen, Baden-Württemberg",
+        "id": 261
+    },
+    {
+        "code": "HD",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Heidelberg & Rhein-Neckar-Kreis, Baden-Württemberg",
+        "id": 262
+    },
+    {
+        "code": "HDH",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Heidenheim, Baden-Württemberg",
+        "id": 263
+    },
+    {
+        "code": "HDL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Haldensleben, Saxony Anhalt",
+        "id": 264
+    },
+    {
+        "code": "HE",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Helmstedt, Lower Saxony",
+        "id": 265
+    },
+    {
+        "code": "HEB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Hersbruck, Bavaria",
+        "id": 266
+    },
+    {
+        "code": "HEF",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Hersfeld-Rotenburg, Hesse",
+        "id": 267
+    },
+    {
+        "code": "HEI",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Heide & Dithmarschen, Schleswig-Holstein",
+        "id": 268
+    },
+    {
+        "code": "HEL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Hesse State (Hesse Land) official vehicles",
+        "id": 269
+    },
+    {
+        "code": "HER",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Herne, North-Rhine-Westphalia",
+        "id": 270
+    },
+    {
+        "code": "HET",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Hettstedt, Saxony Anhalt",
+        "id": 271
+    },
+    {
+        "code": "HF",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Herford, North-Rhine-Westphalia",
+        "id": 272
+    },
+    {
+        "code": "HG",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bad Homburg vor der Höhe & Hochtaunuskreis, Hesse",
+        "id": 273
+    },
+    {
+        "code": "HGN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Hagenow, Mecklenburg-Vorpommern",
+        "id": 274
+    },
+    {
+        "code": "HGW",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Hansestadt Greifswald, Mecklenburg-Vorpommern",
+        "id": 275
+    },
+    {
+        "code": "HH",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Hansestadt Hamburg",
+        "id": 276
+    },
+    {
+        "code": "HHM",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Hohenmölsen, Saxony Anhalt",
+        "id": 277
+    },
+    {
+        "code": "HI",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Hildesheim, Lower Saxony",
+        "id": 278
+    },
+    {
+        "code": "HIG",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Heiligenstadt, Thuringia",
+        "id": 279
+    },
+    {
+        "code": "HIP",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Hilpoltstein, Bavaria",
+        "id": 280
+    },
+    {
+        "code": "HL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Hansestadt Lübeck",
+        "id": 281
+    },
+    {
+        "code": "HM",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Hamelin(Hameln)-Pyrmont, Lower Saxony",
+        "id": 282
+    },
+    {
+        "code": "HMU",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Hanoversch Münden, Lower Saxony",
+        "id": 283
+    },
+    {
+        "code": "HN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Heilbronn, Baden-Württemberg",
+        "id": 284
+    },
+    {
+        "code": "HO",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Hof, Bavaria",
+        "id": 285
+    },
+    {
+        "code": "HOG",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Hofgeismar, Hesse",
+        "id": 286
+    },
+    {
+        "code": "HOH",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Hofheim, Bavaria",
+        "id": 287
+    },
+    {
+        "code": "HOL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Holzminden, Lower Saxony",
+        "id": 288
+    },
+    {
+        "code": "HOM",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Homburg & Saar-Pfalz-Kreis, Saarland",
+        "id": 289
+    },
+    {
+        "code": "HOR",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Horb, Baden-Württemberg",
+        "id": 290
+    },
+    {
+        "code": "HÖS",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Höchstadt, Bavaria",
+        "id": 291
+    },
+    {
+        "code": "HOT",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Hohenstein-Ernstthal, Saxony",
+        "id": 292
+    },
+    {
+        "code": "HP",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Heppenheim an der Bergstraße & Bergstraße, Hesse",
+        "id": 293
+    },
+    {
+        "code": "HR",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Homberg & Schwalm-Eder-Kreis, Hesse",
+        "id": 294
+    },
+    {
+        "code": "HRO",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Hansestadt Rostock, Mecklenburg-Vorpommern",
+        "id": 295
+    },
+    {
+        "code": "HS",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Heinsberg, North-Rhine-Westphalia",
+        "id": 296
+    },
+    {
+        "code": "HSK",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Hochsauerlandkreis, North-Rhine-Westphalia",
+        "id": 297
+    },
+    {
+        "code": "HST",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Hansestadt Stralsund, Mecklenburg-Vorpommern",
+        "id": 298
+    },
+    {
+        "code": "HU",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Hanau & Main-Kinzig-Kreis, Hesse",
+        "id": 299
+    },
+    {
+        "code": "HÜN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Hünfeld, Schleswig-Holstein",
+        "id": 300
+    },
+    {
+        "code": "HUS",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Husum, Schleswig-Holstein",
+        "id": 301
+    },
+    {
+        "code": "HV",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Havelberg, Saxony Anhalt",
+        "id": 302
+    },
+    {
+        "code": "HVL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Havelland, Brandenburg",
+        "id": 303
+    },
+    {
+        "code": "HW",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Halle Westfalen, North-Rhine-Westphalia",
+        "id": 304
+    },
+    {
+        "code": "HWI",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Hansestadt Wismar, Mecklenburg-Vorpommern",
+        "id": 305
+    },
+    {
+        "code": "HX",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Höxter, North-Rhine-Westphalia",
+        "id": 306
+    },
+    {
+        "code": "HY",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Hoyerswerda, Saxony",
+        "id": 307
+    },
+    {
+        "code": "HZ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Herzberg, Brandenburg",
+        "id": 308
+    },
+    {
+        "code": "IGB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Stadt St Ingbert & Saar-Pfalz-Kreis, Saarland",
+        "id": 309
+    },
+    {
+        "code": "IK",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Ilm-Kreis, Thuringia",
+        "id": 310
+    },
+    {
+        "code": "IL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Ilmenau, Thuringia",
+        "id": 311
+    },
+    {
+        "code": "ILL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Illertissen, Bavaria",
+        "id": 312
+    },
+    {
+        "code": "IN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Ingolstadt, Bavaria Audi is headquarted here!",
+        "id": 313
+    },
+    {
+        "code": "IS",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Iserlohn, North-Rhine-Westphalia",
+        "id": 314
+    },
+    {
+        "code": "IZ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Itzehoe & Steinburg, Schleswig-Holstein",
+        "id": 315
+    },
+    {
+        "code": "J",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Jena, Thuringia",
+        "id": 316
+    },
+    {
+        "code": "JB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Jüterbog, Brandenburg",
+        "id": 317
+    },
+    {
+        "code": "JE",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Jessen, Saxony Anhalt",
+        "id": 318
+    },
+    {
+        "code": "JEV",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Jever, Lower Saxony",
+        "id": 319
+    },
+    {
+        "code": "JL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Jerichower Land, Saxony-Anhalt",
+        "id": 320
+    },
+    {
+        "code": "JÜL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Jülich, North-Rhine-Westphalia",
+        "id": 321
+    },
+    {
+        "code": "K",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Cologne (Köln), North-Rhine-Westphalia",
+        "id": 322
+    },
+    {
+        "code": "KA",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Karlsruhe, Baden-Württemberg",
+        "id": 323
+    },
+    {
+        "code": "KAR",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Karlstadt, Bavaria",
+        "id": 324
+    },
+    {
+        "code": "KB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Korbach & Waldeck-Frankenberg, Hesse",
+        "id": 325
+    },
+    {
+        "code": "KC",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Kronach, Bavaria",
+        "id": 326
+    },
+    {
+        "code": "KE",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Kempten (Allgäu), Bavaria",
+        "id": 327
+    },
+    {
+        "code": "KEH",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Kelheim, Bavaria",
+        "id": 328
+    },
+    {
+        "code": "KEL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Kehl, Baden-Württemberg",
+        "id": 329
+    },
+    {
+        "code": "KEM",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Kemnath, Bavaria",
+        "id": 330
+    },
+    {
+        "code": "KF",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Kaufbeuren, Bavaria",
+        "id": 331
+    },
+    {
+        "code": "KG",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bad Kissingen, Bavaria",
+        "id": 332
+    },
+    {
+        "code": "KH",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bad Kreuznach, Rhineland Palatinate",
+        "id": 333
+    },
+    {
+        "code": "KI",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Kiel, Schleswig-Holstein",
+        "id": 334
+    },
+    {
+        "code": "KIB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Kirchheimbolanden & Donnersbergkreis, Rhineland Palatinate",
+        "id": 335
+    },
+    {
+        "code": "KK",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Kempen-Krefeld, North-Rhine-Westphalia",
+        "id": 336
+    },
+    {
+        "code": "KL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Kaiserslauten, Rhineland Palatinate",
+        "id": 337
+    },
+    {
+        "code": "KLE",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Cleves (Kleve), North-Rhine-Westphalia",
+        "id": 338
+    },
+    {
+        "code": "KLT",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Klingental, Saxony",
+        "id": 339
+    },
+    {
+        "code": "KLZ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Klötze, Saxony Anhalt",
+        "id": 340
+    },
+    {
+        "code": "KM",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Kamenz, Saxony",
+        "id": 341
+    },
+    {
+        "code": "KN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Constance (Konstanz), Baden-Württemberg",
+        "id": 342
+    },
+    {
+        "code": "KO",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Koblenz, Rhineland Palatinate",
+        "id": 343
+    },
+    {
+        "code": "KÖN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Kötzting, Bavaria",
+        "id": 344
+    },
+    {
+        "code": "KÖT",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Köthen, Saxony-Anhalt",
+        "id": 345
+    },
+    {
+        "code": "KR",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Krefeld, North-Rhine-Westphalia",
+        "id": 346
+    },
+    {
+        "code": "KRU",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Krumbach, Bavaria",
+        "id": 347
+    },
+    {
+        "code": "KS",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Kassel, Hesse",
+        "id": 348
+    },
+    {
+        "code": "KT",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Kitzingen, Bavaria",
+        "id": 349
+    },
+    {
+        "code": "KU",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Kulmbach, Bavaria",
+        "id": 350
+    },
+    {
+        "code": "KÜN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Küzelsau & Hohenlohekreis, Baden-Württemberg",
+        "id": 351
+    },
+    {
+        "code": "KUS",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Kusel, Rhineland Palatinate",
+        "id": 352
+    },
+    {
+        "code": "KW",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Königs-Wusterhausen, Brandenburg",
+        "id": 353
+    },
+    {
+        "code": "KY",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Kyritz, Brandenburg",
+        "id": 354
+    },
+    {
+        "code": "KYF",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Kyffhäuserkreis, Thuringia",
+        "id": 355
+    },
+    {
+        "code": "L",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Leipzig, Saxony (since c1990; previously used for Lahn-Dill- Kreis)",
+        "id": 356
+    },
+    {
+        "code": "LA",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Landshut, Bavaria",
+        "id": 357
+    },
+    {
+        "code": "LAN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Landau Isar, Bavaria",
+        "id": 358
+    },
+    {
+        "code": "LAT",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Lauterbach, Hesse",
+        "id": 359
+    },
+    {
+        "code": "LAU",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Lauf an der Pegnitz & Nürnberger Land, Bavaria",
+        "id": 360
+    },
+    {
+        "code": "LB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Ludwigsburg, Baden-Württemberg",
+        "id": 361
+    },
+    {
+        "code": "LBS",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Lobenstein, Thuringia",
+        "id": 362
+    },
+    {
+        "code": "LBZ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Lübz, Mecklenburg-Vorpommern",
+        "id": 363
+    },
+    {
+        "code": "LC",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Luckau, Brandenburg",
+        "id": 364
+    },
+    {
+        "code": "LD",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Landau in der Pfalz, Rhineland Palatinate",
+        "id": 365
+    },
+    {
+        "code": "LDK",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Lahn-Dill-Kreis, Hesse",
+        "id": 366
+    },
+    {
+        "code": "LDS",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Landkreis Dahme-Spreewald, Brandenburg",
+        "id": 367
+    },
+    {
+        "code": "LE",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Lemgo, North-Rhine-Westphalia",
+        "id": 368
+    },
+    {
+        "code": "LEO",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Leonberg, Baden-Württemberg",
+        "id": 369
+    },
+    {
+        "code": "LER",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Leer (Ostfriesland), Lower Saxony",
+        "id": 370
+    },
+    {
+        "code": "LEV",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Leverkusen, North-Rhine-Westphalia",
+        "id": 371
+    },
+    {
+        "code": "LF",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Laufen, Bavaria",
+        "id": 372
+    },
+    {
+        "code": "LG",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Lüneburg, Lower Saxony",
+        "id": 373
+    },
+    {
+        "code": "LH",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Lüdinghausen, North-Rhine-Westphalia",
+        "id": 374
+    },
+    {
+        "code": "LI",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Lindau (Bodensee), Bavaria",
+        "id": 375
+    },
+    {
+        "code": "LIB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bad Liebenwerda, Brandenburg",
+        "id": 376
+    },
+    {
+        "code": "LIF",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Lichtenfels, Bavaria",
+        "id": 377
+    },
+    {
+        "code": "LIN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Lingen, Lower Saxony",
+        "id": 378
+    },
+    {
+        "code": "LIP",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Lippe, North-Rhine-Westphalia",
+        "id": 379
+    },
+    {
+        "code": "LK",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Lübbecke, North-Rhine-Westphalia",
+        "id": 380
+    },
+    {
+        "code": "LL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Landsberg am Lech, Bavaria",
+        "id": 381
+    },
+    {
+        "code": "LM",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Limburg-Weilburg, Hesse",
+        "id": 382
+    },
+    {
+        "code": "LN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Lübben, Brandenburg",
+        "id": 383
+    },
+    {
+        "code": "LÖ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Lörrach, Baden-Württemberg",
+        "id": 384
+    },
+    {
+        "code": "LÖB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Löbau, Saxony",
+        "id": 385
+    },
+    {
+        "code": "LOH",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Lohr am Main, Bavaria",
+        "id": 386
+    },
+    {
+        "code": "LOS",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Landkreis Oder-Spree, Brandenburg",
+        "id": 387
+    },
+    {
+        "code": "LP",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Lippstadt, North-Rhine-Westphalia",
+        "id": 388
+    },
+    {
+        "code": "LR",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Lahr, Baden-Württemberg",
+        "id": 389
+    },
+    {
+        "code": "LS",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Lüdenscheid, North-Rhine-Westphalia",
+        "id": 390
+    },
+    {
+        "code": "LSA",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Saxony Anhalt State (Sachsen-Anhalt Land) official vehicles",
+        "id": 391
+    },
+    {
+        "code": "LSN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Saxony State (Sachsen Land) official vehicles",
+        "id": 392
+    },
+    {
+        "code": "LSZ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bad Langensalza, Thuringia",
+        "id": 393
+    },
+    {
+        "code": "LU",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Ludwigshafen am Rhein, Rhineland Palatinate",
+        "id": 394
+    },
+    {
+        "code": "LÜD",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Lüdenscheid, North-Rhine-Westphalia",
+        "id": 395
+    },
+    {
+        "code": "LUK",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Luckenwalde, Brandenburg",
+        "id": 396
+    },
+    {
+        "code": "LÜN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Lünen, North-Rhine-Westphalia",
+        "id": 397
+    },
+    {
+        "code": "LWL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Ludwigslust, Mecklenburg-Vorpommern",
+        "id": 398
+    },
+    {
+        "code": "M",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Munich (München), Bavaria BMW calls the city home!",
+        "id": 399
+    },
+    {
+        "code": "MA",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Mannheim, Baden-Württemberg",
+        "id": 400
+    },
+    {
+        "code": "MAB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Marienberg, Saxony",
+        "id": 401
+    },
+    {
+        "code": "MAI",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Mainburg, Bavaria",
+        "id": 402
+    },
+    {
+        "code": "MAK",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Marktredwitz, Bavaria",
+        "id": 403
+    },
+    {
+        "code": "MAL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Mallersdorf, Bavaria",
+        "id": 404
+    },
+    {
+        "code": "MAR",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Marktheidenfeld, Bavaria",
+        "id": 405
+    },
+    {
+        "code": "MB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Miesbach, Bavaria",
+        "id": 406
+    },
+    {
+        "code": "MC",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Malchin, Mecklenburg-Vorpommern",
+        "id": 407
+    },
+    {
+        "code": "MD",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Magdeburg, Saxony-Anhalt",
+        "id": 408
+    },
+    {
+        "code": "ME",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Mettmann, North-Rhine-Westphalia",
+        "id": 409
+    },
+    {
+        "code": "MED",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Meldorf, Schleswig-Holstein",
+        "id": 410
+    },
+    {
+        "code": "MEG",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Melsungen, Hesse",
+        "id": 411
+    },
+    {
+        "code": "MEI",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Meissen, Saxony",
+        "id": 412
+    },
+    {
+        "code": "MEK",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Mittlerer Erzgebirgskreis, Saxony",
+        "id": 413
+    },
+    {
+        "code": "MEL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Melle, Lower Saxony",
+        "id": 414
+    },
+    {
+        "code": "MEP",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Meppen, Lower Saxony",
+        "id": 415
+    },
+    {
+        "code": "MER",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Merseburg, Saxony Anhalt",
+        "id": 416
+    },
+    {
+        "code": "MES",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Meschede, North-Rhine-Westphalia",
+        "id": 417
+    },
+    {
+        "code": "MET",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Mellrichstadt, Bavaria",
+        "id": 418
+    },
+    {
+        "code": "MG",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Mönchengladbach, North-Rhine-Westphalia",
+        "id": 419
+    },
+    {
+        "code": "MGH",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bad Mergentheim, Baden-Württemberg",
+        "id": 420
+    },
+    {
+        "code": "MGN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Meiningen, Thuringia",
+        "id": 421
+    },
+    {
+        "code": "MH",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Mülheim an der Ruhr, North-Rhine-Westphalia",
+        "id": 422
+    },
+    {
+        "code": "MHL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Mühlhausen",
+        "id": 423
+    },
+    {
+        "code": "MI",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Minden-Lübbecke, North-Rhine-Westphalia",
+        "id": 424
+    },
+    {
+        "code": "MIL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Miltenberg, Bavaria",
+        "id": 425
+    },
+    {
+        "code": "MK",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Märkischer Kreis, North-Rhine-Westphalia",
+        "id": 426
+    },
+    {
+        "code": "ML",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Mansfelder Land, Saxony-Anhalt",
+        "id": 427
+    },
+    {
+        "code": "MM",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Memmingen, Bavaria",
+        "id": 428
+    },
+    {
+        "code": "MN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Mindelheim & Unterallgäu, Bavaria",
+        "id": 429
+    },
+    {
+        "code": "MO",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Moers, North-Rhine-Westphalia",
+        "id": 430
+    },
+    {
+        "code": "MOD",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Marktoberdorf, Bavaria",
+        "id": 431
+    },
+    {
+        "code": "MOL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Märkisch-Oderland, Brandenburg",
+        "id": 432
+    },
+    {
+        "code": "MON",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Monschau, North-Rhine-Westphalia",
+        "id": 433
+    },
+    {
+        "code": "MOS",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Mosbach & Neckar-Odenwald-Kreis, Baden- Württemberg",
+        "id": 434
+    },
+    {
+        "code": "MQ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Merseburg-Querfurt, Saxony-Anhalt",
+        "id": 435
+    },
+    {
+        "code": "MR",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Marburg-Biedenkopf, Hesse",
+        "id": 436
+    },
+    {
+        "code": "MS",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Münster, North-Rhine-Westphalia",
+        "id": 437
+    },
+    {
+        "code": "MSP",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Main-Spessart-Kreis, Bavaria",
+        "id": 438
+    },
+    {
+        "code": "MST",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Mecklenburg-Strelitz, Mecklenburg-Vorpommern",
+        "id": 439
+    },
+    {
+        "code": "MT",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Montabaur, Rhineland Palatinate",
+        "id": 440
+    },
+    {
+        "code": "MTK",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Main-Taunus-Kreis, Hesse",
+        "id": 441
+    },
+    {
+        "code": "MTL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Muldentalkreis, Saxony",
+        "id": 442
+    },
+    {
+        "code": "MÜ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Mühldorf am Inn, Bavaria",
+        "id": 443
+    },
+    {
+        "code": "MÜB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Münchberg, Bavaria",
+        "id": 444
+    },
+    {
+        "code": "MÜL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Müllheim, Baden-Württemberg",
+        "id": 445
+    },
+    {
+        "code": "MÜN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Münsingen, Baden-Württemberg",
+        "id": 446
+    },
+    {
+        "code": "MÜR",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Müritz, Mecklenburg-Vorpommern",
+        "id": 447
+    },
+    {
+        "code": "MVL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Mecklenburg-Vorpommern Land official vehicles",
+        "id": 448
+    },
+    {
+        "code": "MW",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Mittweida, Saxony",
+        "id": 449
+    },
+    {
+        "code": "MY",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Mayen, Rhineland Palatinate",
+        "id": 450
+    },
+    {
+        "code": "MYK",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Mayen-Koblenz, Rhineland Palatinate",
+        "id": 451
+    },
+    {
+        "code": "MZ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Mainz & Mainz-Bingen, Rhineland Palatinate",
+        "id": 452
+    },
+    {
+        "code": "MZG",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Merzig-Wadern, Saarland",
+        "id": 453
+    },
+    {
+        "code": "N",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Nuremberg (Nürnberg), Bavaria",
+        "id": 454
+    },
+    {
+        "code": "NAB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Nabburg, Bavaria",
+        "id": 455
+    },
+    {
+        "code": "NAI",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Naila, Bavaria",
+        "id": 456
+    },
+    {
+        "code": "NAU",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Nauen, Brandenburg",
+        "id": 457
+    },
+    {
+        "code": "NB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Neubrandenburg, Mecklenburg-Vorpommern",
+        "id": 458
+    },
+    {
+        "code": "ND",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Neuberg an der Donau & Neuberg-Schrobenhausen, Bavaria",
+        "id": 459
+    },
+    {
+        "code": "NDH",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Nordhausen, Thuringia",
+        "id": 460
+    },
+    {
+        "code": "NE",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Neuss, North-Rhine-Westphalia",
+        "id": 461
+    },
+    {
+        "code": "NEA",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Neustadt an der Aisch & Bad Windsheim, Bavaria",
+        "id": 462
+    },
+    {
+        "code": "NEB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Nebra, Saxony Anhalt",
+        "id": 463
+    },
+    {
+        "code": "NEC",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Neustadt Coburg, Bavaria",
+        "id": 464
+    },
+    {
+        "code": "NEN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Neunburg, Bavaria",
+        "id": 465
+    },
+    {
+        "code": "NES",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bad Neustadt an der Saale & Rhön-Grabfeld, Bavaria",
+        "id": 466
+    },
+    {
+        "code": "NEU",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Neustadt Schwarzwald, Baden-Württemberg",
+        "id": 467
+    },
+    {
+        "code": "NEW",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Neustadt an der Waldnaab, Bavaria",
+        "id": 468
+    },
+    {
+        "code": "NF",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Nordfriesland, Schleswig-Holstein",
+        "id": 469
+    },
+    {
+        "code": "NH",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Neuhaus an der Rennweg, Thuringia (1991-c1994; previously used for Neustadt Haardt, Rhineland Palatinate before 1959)",
+        "id": 470
+    },
+    {
+        "code": "NI",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Nienberg (Weser), Lower Saxony",
+        "id": 471
+    },
+    {
+        "code": "NIB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Niebüll, Schleswig-Holstein",
+        "id": 472
+    },
+    {
+        "code": "NK",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Neunkirchen/Saar, Saarland",
+        "id": 473
+    },
+    {
+        "code": "NL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Lower Saxony State (Niedersachsen Land) official vehicles",
+        "id": 474
+    },
+    {
+        "code": "NM",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Neumarkt in der Oberpfalz, Bavaria",
+        "id": 475
+    },
+    {
+        "code": "NMB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Naumberg, Saxony Anhalt",
+        "id": 476
+    },
+    {
+        "code": "NMS",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Neumünster, Schleswig-Holstein",
+        "id": 477
+    },
+    {
+        "code": "NÖ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Nördlingen, Bavaria",
+        "id": 478
+    },
+    {
+        "code": "NOH",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Nordhorn & Grafschaft Bentheim, Lower Saxony",
+        "id": 479
+    },
+    {
+        "code": "NOL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Niederschlesischer Oberlausitzkreis, Saxony",
+        "id": 480
+    },
+    {
+        "code": "NOM",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Northeim, Lower Saxony",
+        "id": 481
+    },
+    {
+        "code": "NOR",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Norden, Lower Saxony",
+        "id": 482
+    },
+    {
+        "code": "NP",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Neuruppin, Brandenburg",
+        "id": 483
+    },
+    {
+        "code": "NR",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Neuwied am Rhein, Rhineland Palatinate",
+        "id": 484
+    },
+    {
+        "code": "NRÜ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Neustadt am Rübenberge, Lower Saxony",
+        "id": 485
+    },
+    {
+        "code": "NRW",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "North-Rhine-Westphalia State (Nordrhein-Westfalen Land) official vehicles",
+        "id": 486
+    },
+    {
+        "code": "NU",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Neu-Ulm, Bavaria",
+        "id": 487
+    },
+    {
+        "code": "NT",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Nürtingen, Baden-Württemberg",
+        "id": 488
+    },
+    {
+        "code": "NVP",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Nordvorpommern, Mecklenburg-Vorpommern",
+        "id": 489
+    },
+    {
+        "code": "NW",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Neustadt an der Weinstraße, Rhineland Palatinate",
+        "id": 490
+    },
+    {
+        "code": "NWM",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Nordwestmecklenburg, Mecklenburg-Vorpommern",
+        "id": 491
+    },
+    {
+        "code": "NY",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Niesky, Saxony",
+        "id": 492
+    },
+    {
+        "code": "NZ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Neustrelitz, Mecklenburg-Vorpommern",
+        "id": 493
+    },
+    {
+        "code": "O",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Diplomatic vehicles",
+        "id": 494
+    },
+    {
+        "code": "OA",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Oberallgäu, Bavaria",
+        "id": 495
+    },
+    {
+        "code": "OAL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Ostallgäu, Bavaria",
+        "id": 496
+    },
+    {
+        "code": "OB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Oberhausen, North-Rhine-Westphalia",
+        "id": 497
+    },
+    {
+        "code": "OBB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Obernburg, Bavaria",
+        "id": 498
+    },
+    {
+        "code": "OBG",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Osterburg, Saxony Anhalt",
+        "id": 499
+    },
+    {
+        "code": "OC",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Oschersleben, Saxony",
+        "id": 500
+    },
+    {
+        "code": "OCH",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Ochsenfurt, Bavaria",
+        "id": 501
+    },
+    {
+        "code": "OD",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bad Oldesloe & Stormarn, Schleswig-Holstein",
+        "id": 502
+    },
+    {
+        "code": "OE",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Olpe, North-Rhine-Westphalia",
+        "id": 503
+    },
+    {
+        "code": "OF",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Offenbach am Main, Hesse",
+        "id": 504
+    },
+    {
+        "code": "OG",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Offenburg & Ortenaukreis, Baden-Württemberg",
+        "id": 505
+    },
+    {
+        "code": "OH",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Ostholstein, Schleswig-Holstein",
+        "id": 506
+    },
+    {
+        "code": "OHA",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Osterode am Harz, Lower Saxony",
+        "id": 507
+    },
+    {
+        "code": "ÖHR",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Öhringen, Baden-Württemberg",
+        "id": 508
+    },
+    {
+        "code": "OHV",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Oberhavel, Brandenburg",
+        "id": 509
+    },
+    {
+        "code": "OHZ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Osterholz, Lower Saxony",
+        "id": 510
+    },
+    {
+        "code": "OK",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Ohre-Kreis, Saxony-Anhalt",
+        "id": 511
+    },
+    {
+        "code": "OL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Oldenburg, Lower Saxony",
+        "id": 512
+    },
+    {
+        "code": "OLD",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Oldenburg (Holstein), Schleswig-Holstein",
+        "id": 513
+    },
+    {
+        "code": "OP",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Opladen, North-Rhine-Westphalia",
+        "id": 514
+    },
+    {
+        "code": "OPR",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Ostprignitz-Ruppin, Brandenburg",
+        "id": 515
+    },
+    {
+        "code": "OR",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Oranienburg, Brandenburg",
+        "id": 516
+    },
+    {
+        "code": "OS",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Osnabrück, Lower Saxony",
+        "id": 517
+    },
+    {
+        "code": "OSL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Oberspreewald-Lausitz, Brandenburg",
+        "id": 518
+    },
+    {
+        "code": "OTT",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Otterndorf, Lower Saxony",
+        "id": 519
+    },
+    {
+        "code": "OTW",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Ottweiler, Saarland",
+        "id": 520
+    },
+    {
+        "code": "OVI",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Oberviechtach, Bavaria",
+        "id": 521
+    },
+    {
+        "code": "OVL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Obervogtland, Saxony",
+        "id": 522
+    },
+    {
+        "code": "OVP",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Ostvorpommern, Mecklenburg-Vorpommern",
+        "id": 523
+    },
+    {
+        "code": "OZ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Oschatz, Saxony",
+        "id": 524
+    },
+    {
+        "code": "P",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Potsdam, Brandenburg",
+        "id": 525
+    },
+    {
+        "code": "PA",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Passau, Bavaria",
+        "id": 526
+    },
+    {
+        "code": "PAF",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Pfaffenhofen an der Ilm, Bavaria",
+        "id": 527
+    },
+    {
+        "code": "PAN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Pfarrkirchen & Rottal-Inn, Bavaria",
+        "id": 528
+    },
+    {
+        "code": "PAR",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Parsberg, Bavaria",
+        "id": 529
+    },
+    {
+        "code": "PB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Paderborn, North-Rhine-Westphalia",
+        "id": 530
+    },
+    {
+        "code": "PCH",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Parchim, Mecklenburg-Vorpommern",
+        "id": 531
+    },
+    {
+        "code": "PE",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Peine, Lower Saxony",
+        "id": 532
+    },
+    {
+        "code": "PEG",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Pegnitz, Bavraia",
+        "id": 533
+    },
+    {
+        "code": "PER",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Perleberg, Brandenburg",
+        "id": 534
+    },
+    {
+        "code": "PF",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Pforzheim & Enzkreis, Baden-Württemberg",
+        "id": 535
+    },
+    {
+        "code": "PI",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Pinneberg, Schleswig-Holstein",
+        "id": 536
+    },
+    {
+        "code": "PIR",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Pirna, Saxony",
+        "id": 537
+    },
+    {
+        "code": "PK",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Pritzwalk, Brandenburg",
+        "id": 538
+    },
+    {
+        "code": "PL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Plauen, Saxony",
+        "id": 539
+    },
+    {
+        "code": "PLÖ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Plön, Schleswig-Holstein",
+        "id": 540
+    },
+    {
+        "code": "PM",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Potsdam-Mittelmark, Brandenburg",
+        "id": 541
+    },
+    {
+        "code": "PN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Pößneck, Thuringia",
+        "id": 542
+    },
+    {
+        "code": "PR",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Prignitz, Brandenburg",
+        "id": 543
+    },
+    {
+        "code": "PRÜ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Prüm, Rhineland Palatinate",
+        "id": 544
+    },
+    {
+        "code": "PS",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Pirmasens & Südwestpfalz, Rhineland Palatinate",
+        "id": 545
+    },
+    {
+        "code": "PW",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Pasewalk, Mecklenburg-Vorpommern",
+        "id": 546
+    },
+    {
+        "code": "PZ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Prenzlau, Brandenburg",
+        "id": 547
+    },
+    {
+        "code": "QFT",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Querfurt, Saxony Anhalt",
+        "id": 548
+    },
+    {
+        "code": "QLB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Quedlinburg, Saxony-Anhalt",
+        "id": 549
+    },
+    {
+        "code": "R",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Regensberg, Bavaria",
+        "id": 550
+    },
+    {
+        "code": "RA",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Ratstatt, Baden-Württemberg",
+        "id": 551
+    },
+    {
+        "code": "RC",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Reichenbach, Saxony",
+        "id": 552
+    },
+    {
+        "code": "RD",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Rendsburg-Eckernförde, Schleswig-Holstein",
+        "id": 553
+    },
+    {
+        "code": "RDG",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Ribnitz-Damgarten, Mecklenburg-Vorpommern",
+        "id": 554
+    },
+    {
+        "code": "RE",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Recklinghausen, North-Rhine-Westphalia",
+        "id": 555
+    },
+    {
+        "code": "REG",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Regen, Bavaria",
+        "id": 556
+    },
+    {
+        "code": "REH",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Rehau, Bavaria",
+        "id": 557
+    },
+    {
+        "code": "REI",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bad Reichenhall, Bavaria",
+        "id": 558
+    },
+    {
+        "code": "RG",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Riesa-Großenhain, Saxony",
+        "id": 559
+    },
+    {
+        "code": "RH",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Roth bei Nürnberg, Bavaria",
+        "id": 560
+    },
+    {
+        "code": "RI",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Rinteln, Lower Saxony",
+        "id": 561
+    },
+    {
+        "code": "RID",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Riedenburg, Bavaria",
+        "id": 562
+    },
+    {
+        "code": "RIE",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Riesa, Saxony",
+        "id": 563
+    },
+    {
+        "code": "RL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Rochlitz, Saxony",
+        "id": 564
+    },
+    {
+        "code": "RM",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Röbel/Muritz, Mecklenburg-Vorpommern",
+        "id": 565
+    },
+    {
+        "code": "RN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Rathenow, Brandenburg",
+        "id": 566
+    },
+    {
+        "code": "RO",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Rosenheim, Bavaria",
+        "id": 567
+    },
+    {
+        "code": "ROD",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Roding, Bavaria",
+        "id": 568
+    },
+    {
+        "code": "ROF",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Rotenburg bei Fulda, Hesse",
+        "id": 569
+    },
+    {
+        "code": "ROH",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Rotenburg Wümme, Lower Saxony",
+        "id": 570
+    },
+    {
+        "code": "ROK",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Rockenhausen, Rhineland Palatinate",
+        "id": 571
+    },
+    {
+        "code": "ROL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Rottenburg Laaber, Bavaria",
+        "id": 572
+    },
+    {
+        "code": "ROS",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Rostock Land, Mecklenburg-Vorpommern",
+        "id": 573
+    },
+    {
+        "code": "ROT",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Rothenburg ob der Tauber, Bavaria",
+        "id": 574
+    },
+    {
+        "code": "ROW",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Rotenburg (Wümme) & Bremervörde, Lower Saxony",
+        "id": 575
+    },
+    {
+        "code": "RPL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Rhineland Palatinate State (Rheinland-Pfalz Land) official vehicles",
+        "id": 576
+    },
+    {
+        "code": "RS",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Remscheid, North-Rhine-Westphalia",
+        "id": 577
+    },
+    {
+        "code": "RSL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Roßlau, Saxony Anhalt",
+        "id": 578
+    },
+    {
+        "code": "RT",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Reutlingen, Baden-Württemberg",
+        "id": 579
+    },
+    {
+        "code": "RÜD",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Rüdesheim & Rheingau-Taunus-Kreis, Hesse",
+        "id": 580
+    },
+    {
+        "code": "RÜG",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Rügen, Mecklenburg-Vorpommern",
+        "id": 581
+    },
+    {
+        "code": "RV",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Ravensburg, Baden-Württemberg",
+        "id": 582
+    },
+    {
+        "code": "RW",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Rottweil, Baden-Württemberg",
+        "id": 583
+    },
+    {
+        "code": "RWL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "North-Rhine-Westphalia State (Nordrhein-Westfalen Land) official vehicles",
+        "id": 584
+    },
+    {
+        "code": "RY",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Rheydt, North-Rhine-Westphalia",
+        "id": 585
+    },
+    {
+        "code": "RZ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Ratzeburg & Hertzogtum Lauenburg, Schleswig-Holstein",
+        "id": 586
+    },
+    {
+        "code": "S",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Stuttgart, Baden-Württemberg Mercedes Benz and Porsche both reside here!",
+        "id": 587
+    },
+    {
+        "code": "SAB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Saarburg, Rhineland Palatinate",
+        "id": 588
+    },
+    {
+        "code": "SAD",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Schwandorf, Bavaria",
+        "id": 589
+    },
+    {
+        "code": "SÄK",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Säckingen, Baden-Württemberg",
+        "id": 590
+    },
+    {
+        "code": "SAL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Saarland official vehicles",
+        "id": 591
+    },
+    {
+        "code": "SAN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Stadtsteinach, Bavaria",
+        "id": 592
+    },
+    {
+        "code": "SAW",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Altmarkkreis Salzwedel, Saxony-Anhalt",
+        "id": 593
+    },
+    {
+        "code": "SB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Saarbrücken, Saarland",
+        "id": 594
+    },
+    {
+        "code": "SBG",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Strasburg, Mecklenburg-Vorpommern",
+        "id": 595
+    },
+    {
+        "code": "SBK",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Schönebeck, Saxony-Anhalt",
+        "id": 596
+    },
+    {
+        "code": "SC",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Schwabach, Bavaria",
+        "id": 597
+    },
+    {
+        "code": "SCZ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Schleiz, Thuringia",
+        "id": 598
+    },
+    {
+        "code": "SDH",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Sondershausen, Thuringia",
+        "id": 599
+    },
+    {
+        "code": "SDL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Stendal, Saxony-Anhalt",
+        "id": 600
+    },
+    {
+        "code": "SDT",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Schwedt, Brandenburg",
+        "id": 601
+    },
+    {
+        "code": "SE",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Segeberg, Schleswig-Holstein",
+        "id": 602
+    },
+    {
+        "code": "SEB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Sebnitz, Saxony",
+        "id": 603
+    },
+    {
+        "code": "SEE",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Seelow, Brandenburg",
+        "id": 604
+    },
+    {
+        "code": "SEF",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Scheinfeld, Bavaria",
+        "id": 605
+    },
+    {
+        "code": "SEL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Selb, Bavaria",
+        "id": 606
+    },
+    {
+        "code": "SF",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Sonthofen, Bavaria",
+        "id": 607
+    },
+    {
+        "code": "SFA",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Soltau-Fallingbostel, Lower Saxony",
+        "id": 608
+    },
+    {
+        "code": "SFB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Senftenberg, Brandenburg",
+        "id": 609
+    },
+    {
+        "code": "SFT",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Staßfurt, Saxony Anhalt",
+        "id": 610
+    },
+    {
+        "code": "SG",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Solingen, North-Rhine-Westphalia",
+        "id": 611
+    },
+    {
+        "code": "SGH",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Sangerhausen, Saxony-Anhalt",
+        "id": 612
+    },
+    {
+        "code": "SH",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Schleswig-Holstein Land official vehicles",
+        "id": 613
+    },
+    {
+        "code": "SHA",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Schwäbisch Hall, Baden-Württemberg",
+        "id": 614
+    },
+    {
+        "code": "SHG",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Stadthagen & Schaumburg, Lower Saxony",
+        "id": 615
+    },
+    {
+        "code": "SHK",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Saale-Holzland-Kreis, Thuringia",
+        "id": 616
+    },
+    {
+        "code": "SHL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Suhl, Thuringia",
+        "id": 617
+    },
+    {
+        "code": "SI",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Siegen-Wittgenstein, North-Rhine-Westphalia",
+        "id": 618
+    },
+    {
+        "code": "SIG",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Sigmaringen, Baden-Württemberg",
+        "id": 619
+    },
+    {
+        "code": "SIM",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Simmern & Rhein-Hunsrück-Kreis, Rhineland Palatinate",
+        "id": 620
+    },
+    {
+        "code": "SK",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Saalkreis, Saxony-Anhalt",
+        "id": 621
+    },
+    {
+        "code": "SL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Schleswig-Flensburg, Schleswig-Holstein",
+        "id": 622
+    },
+    {
+        "code": "SLE",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Schleiden (Eifel), North-Rhine-Westphalia",
+        "id": 623
+    },
+    {
+        "code": "SLF",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Saalfeld-Rudolstadt, Thuringia",
+        "id": 624
+    },
+    {
+        "code": "SLG",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Saulgau, Baden-Württemberg",
+        "id": 625
+    },
+    {
+        "code": "SLN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Schmölin, Thuringia",
+        "id": 626
+    },
+    {
+        "code": "SLS",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Saarlouis, Saarland",
+        "id": 627
+    },
+    {
+        "code": "SLÜ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Schlüchtern, Hesse",
+        "id": 628
+    },
+    {
+        "code": "SLZ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bad Salzungen, Thuringia",
+        "id": 629
+    },
+    {
+        "code": "SM",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Schmalkalden-Meiningen, Thuringia",
+        "id": 630
+    },
+    {
+        "code": "SMÜ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Schwabmünchen, Bavaria",
+        "id": 631
+    },
+    {
+        "code": "SN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Schwerin, Mecklenburg-Vorpommern",
+        "id": 632
+    },
+    {
+        "code": "SNH",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Sinsheim, Baden-Württemberg",
+        "id": 633
+    },
+    {
+        "code": "SO",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Soest, North-Rhine-Westphalia",
+        "id": 634
+    },
+    {
+        "code": "SOB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Schrobenhausen, Bavaria",
+        "id": 635
+    },
+    {
+        "code": "SOG",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Schongau, Bavaria",
+        "id": 636
+    },
+    {
+        "code": "SOK",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Saale-Orla-Kreis, Thuringia",
+        "id": 637
+    },
+    {
+        "code": "SOL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Soltau, Lower Saxony",
+        "id": 638
+    },
+    {
+        "code": "SÖM",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Sömmerda, Thuringia",
+        "id": 639
+    },
+    {
+        "code": "SON",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Sonneberg, Thuringia",
+        "id": 640
+    },
+    {
+        "code": "SP",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Speyer, Rhineland Palatinate",
+        "id": 641
+    },
+    {
+        "code": "SPB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Spremberg, Brandenburg",
+        "id": 642
+    },
+    {
+        "code": "SPN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Spree-Neiße, Brandenburg",
+        "id": 643
+    },
+    {
+        "code": "SPR",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Springe, Lower Saxony",
+        "id": 644
+    },
+    {
+        "code": "SR",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Straubing & Straubing-Bogen, Bavaria",
+        "id": 645
+    },
+    {
+        "code": "SRB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Strausberg, Brandenburg",
+        "id": 646
+    },
+    {
+        "code": "SRO",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Stadtroda, Thuringia",
+        "id": 647
+    },
+    {
+        "code": "ST",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Steinfurt, North-Rhine-Westphalia (since 1975; previously used for Stade in 1956)",
+        "id": 648
+    },
+    {
+        "code": "STA",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Starnberg, Bavaria",
+        "id": 649
+    },
+    {
+        "code": "STB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Sternberg, Mecklenburg-Vorpommern",
+        "id": 650
+    },
+    {
+        "code": "STD",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Stade, Lower Saxony",
+        "id": 651
+    },
+    {
+        "code": "STE",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Staffelstein, Bavaria",
+        "id": 652
+    },
+    {
+        "code": "STH",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Stadthagen, Lower Saxony",
+        "id": 653
+    },
+    {
+        "code": "STL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Stollberg, Saxony",
+        "id": 654
+    },
+    {
+        "code": "STO",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Stockach, Baden-Württemberg",
+        "id": 655
+    },
+    {
+        "code": "SU",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Siegburg & Rhein-Sieg-Kreis, North-Rhine-Westphalia",
+        "id": 656
+    },
+    {
+        "code": "SUL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Sulzbach-Rosenberg, Bavaria",
+        "id": 657
+    },
+    {
+        "code": "SÜW",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Südliche Weinstraße, Rhineland Palatinate",
+        "id": 658
+    },
+    {
+        "code": "SW",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Schweinfurt, Bavaria",
+        "id": 659
+    },
+    {
+        "code": "SWA",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bad Schwalbach & Rheingau-Taunus-Kreis, Hesse",
+        "id": 660
+    },
+    {
+        "code": "SY",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Syke, Lower Saxony",
+        "id": 661
+    },
+    {
+        "code": "SZ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Salzgitter, Lower Saxony",
+        "id": 662
+    },
+    {
+        "code": "SZB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Schwarzenberg, Saxony",
+        "id": 663
+    },
+    {
+        "code": "TBB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Tauberbischofsheim & Main-Tauber-Kreis, Baden-Württemberg",
+        "id": 664
+    },
+    {
+        "code": "TE",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Teterow, Mecklenburg-Vorpommern (1991-c1994; previously used for Tecklenburg, North-Rhine-Westphalia before 1974)",
+        "id": 665
+    },
+    {
+        "code": "TF",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Teltow-Fläming, Brandenburg",
+        "id": 666
+    },
+    {
+        "code": "TG",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Torgau, Saxony",
+        "id": 667
+    },
+    {
+        "code": "THL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Thuringia State (Thüringen Land) official vehicles",
+        "id": 668
+    },
+    {
+        "code": "THW",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Technical help (Technisches Hilfswerk) vehicles",
+        "id": 669
+    },
+    {
+        "code": "TIR",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Tirschenreuth, Bavaria",
+        "id": 670
+    },
+    {
+        "code": "TO",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Torgau-Oschatz, Saxony",
+        "id": 671
+    },
+    {
+        "code": "TÖL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Bad Tölz-Wolfratshausen, Bavaria",
+        "id": 672
+    },
+    {
+        "code": "TÖN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Tönning, Schleswig-Holstein",
+        "id": 673
+    },
+    {
+        "code": "TP",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Templin, Brandenburg",
+        "id": 674
+    },
+    {
+        "code": "TR",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Trier, Rhineland Palatinate",
+        "id": 675
+    },
+    {
+        "code": "TS",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Traunstein, Bavaria",
+        "id": 676
+    },
+    {
+        "code": "TT",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Tettnang, Baden-Württemberg",
+        "id": 677
+    },
+    {
+        "code": "TÜ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Tübingen, Baden-Württemberg",
+        "id": 678
+    },
+    {
+        "code": "TUT",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Tuttlingen, Baden-Württemberg",
+        "id": 679
+    },
+    {
+        "code": "ÜB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Überlingen, Baden-Württemberg",
+        "id": 680
+    },
+    {
+        "code": "UE",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Uelzen, Lower Saxony",
+        "id": 681
+    },
+    {
+        "code": "UEM",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Ueckermünde, Mecklenburg-Vorpommern",
+        "id": 682
+    },
+    {
+        "code": "UER",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Uecker-Randow, Mecklenburg-Vorpommern",
+        "id": 683
+    },
+    {
+        "code": "UFF",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Uffenheim, Bavaria",
+        "id": 684
+    },
+    {
+        "code": "UH",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Unstrut-Hainich, Thuringia",
+        "id": 685
+    },
+    {
+        "code": "UL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Ulm & Alb-Donau-Kreis, Baden-Württemberg",
+        "id": 686
+    },
+    {
+        "code": "UM",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Uckermark, Brandenburg",
+        "id": 687
+    },
+    {
+        "code": "UN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Unna, North-Rhine-Westphalia",
+        "id": 688
+    },
+    {
+        "code": "USI",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Usingen, Hesse",
+        "id": 689
+    },
+    {
+        "code": "V",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Vogtlandkreis, Saxony",
+        "id": 690
+    },
+    {
+        "code": "VAI",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Vaihingen, Baden-Württemberg",
+        "id": 691
+    },
+    {
+        "code": "VB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Vogelsbergkreis, Hesse",
+        "id": 692
+    },
+    {
+        "code": "VEC",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Vechta, Lower Saxony",
+        "id": 693
+    },
+    {
+        "code": "VER",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Verden, Lower Saxony",
+        "id": 694
+    },
+    {
+        "code": "VIB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Vilsbiburg, Bavaria",
+        "id": 695
+    },
+    {
+        "code": "VIE",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Viersen, North-Rhine-Westphalia",
+        "id": 696
+    },
+    {
+        "code": "VIT",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Viechtach, Bavaria",
+        "id": 697
+    },
+    {
+        "code": "VK",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Völklingen, Saarland",
+        "id": 698
+    },
+    {
+        "code": "VL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Villingen, Baden-Württemberg",
+        "id": 699
+    },
+    {
+        "code": "VOF",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Vilshofen, Bavaria",
+        "id": 700
+    },
+    {
+        "code": "VOH",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Vohenstrauß, Bavaria",
+        "id": 701
+    },
+    {
+        "code": "VS",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Villingen-Schwenningen & Schwarzwald-Baar-Kreis, Baden-Württemberg",
+        "id": 702
+    },
+    {
+        "code": "W",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Wuppertal, North-Rhine-Westphalia",
+        "id": 703
+    },
+    {
+        "code": "WA",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Waldeck, Hesse",
+        "id": 704
+    },
+    {
+        "code": "WAF",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Kreis Warendorf, North-Rhine-Westphalia",
+        "id": 705
+    },
+    {
+        "code": "WAK",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Wartburgkreis, Thuringia",
+        "id": 706
+    },
+    {
+        "code": "WAN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Wanne-Eickel, North-Rhine-Westphalia",
+        "id": 707
+    },
+    {
+        "code": "WAR",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Warburg, North-Rhine-Westphalia",
+        "id": 708
+    },
+    {
+        "code": "WAT",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Wattenscheid, North-Rhine-Westphalia",
+        "id": 709
+    },
+    {
+        "code": "WB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Wittenberg, Saxony-Anhalt",
+        "id": 710
+    },
+    {
+        "code": "WBS",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Worbis, Thuringia",
+        "id": 711
+    },
+    {
+        "code": "WD",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Weidenbrück, North-Rhine-Westphalia",
+        "id": 712
+    },
+    {
+        "code": "WDA",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Werdau, Saxony",
+        "id": 713
+    },
+    {
+        "code": "WE",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Weimar, Thuringia",
+        "id": 714
+    },
+    {
+        "code": "WEB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Westerburg, Rhineland Palatinate",
+        "id": 715
+    },
+    {
+        "code": "WEG",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Wegscheid, Bavaria",
+        "id": 716
+    },
+    {
+        "code": "WEL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Weilburg, Hesse",
+        "id": 717
+    },
+    {
+        "code": "WEM",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Wesermünde, Lower Saxony",
+        "id": 718
+    },
+    {
+        "code": "WEN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Weiden in der Oberpfalz, Bavaria",
+        "id": 719
+    },
+    {
+        "code": "WER",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Wertingen, Bavaria",
+        "id": 720
+    },
+    {
+        "code": "WES",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Wesel, North-Rhine-Westphalia",
+        "id": 721
+    },
+    {
+        "code": "WF",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Wolfenbüttel, Lower Saxony",
+        "id": 722
+    },
+    {
+        "code": "WG",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Wangen, Baden-Württemberg",
+        "id": 723
+    },
+    {
+        "code": "WHV",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Wilhelmshaven, Lower Saxony",
+        "id": 724
+    },
+    {
+        "code": "WI",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Wiesbaden, Hesse",
+        "id": 725
+    },
+    {
+        "code": "WIL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Wittlich & Bernkastel-Wittlich, Rhineland Palatinate",
+        "id": 726
+    },
+    {
+        "code": "WIS",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Wismarer Land",
+        "id": 727
+    },
+    {
+        "code": "WIT",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Witten, North-Rhine-Westphalia",
+        "id": 728
+    },
+    {
+        "code": "WIZ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Witzenhausen, Hesse",
+        "id": 729
+    },
+    {
+        "code": "WK",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Wittstock, Brandenburg",
+        "id": 730
+    },
+    {
+        "code": "WL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Winsen (Luhe) & Harburg, Lower Saxony",
+        "id": 731
+    },
+    {
+        "code": "WLG",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Wolgast, Mecklenburg-Vorpommern",
+        "id": 732
+    },
+    {
+        "code": "WM",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Weilheim-Schongau, Bavaria",
+        "id": 733
+    },
+    {
+        "code": "WMS",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Wolmirstedt, Saxony Anhalt",
+        "id": 734
+    },
+    {
+        "code": "WN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Waiblingen & Rems-Murr-Kreis, Baden-Württemberg",
+        "id": 735
+    },
+    {
+        "code": "WND",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "St Wendel, Saarland",
+        "id": 736
+    },
+    {
+        "code": "WO",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Worms, Rhineland Palatinate",
+        "id": 737
+    },
+    {
+        "code": "WOB",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Wolfsburg, Lower Saxony Volkswagens Massive Plant is here; hence the Wolfsburg Edition!",
+        "id": 738
+    },
+    {
+        "code": "WOH",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Wolfhagen, Hesse",
+        "id": 739
+    },
+    {
+        "code": "WOL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Wolfach, Baden-Württemberg",
+        "id": 740
+    },
+    {
+        "code": "WOR",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Wolfratshausen, Bavaria",
+        "id": 741
+    },
+    {
+        "code": "WOS",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Wolfstein, Bavaria",
+        "id": 742
+    },
+    {
+        "code": "WR",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Wernigerode, Saxony-Anhalt",
+        "id": 743
+    },
+    {
+        "code": "WRN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Waren, Mecklenburg-Vorpommern",
+        "id": 744
+    },
+    {
+        "code": "WS",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Wasserburg, Bavaria",
+        "id": 745
+    },
+    {
+        "code": "WSF",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Weißenfels, Saxony-Anhalt",
+        "id": 746
+    },
+    {
+        "code": "WST",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Westerstede & Ammerland, Lower Saxony",
+        "id": 747
+    },
+    {
+        "code": "WSW",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Weißwasser, Saxony",
+        "id": 748
+    },
+    {
+        "code": "WT",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Waldshut, Baden-Württemberg",
+        "id": 749
+    },
+    {
+        "code": "WTL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Wittlage, Lower Saxony",
+        "id": 750
+    },
+    {
+        "code": "WTM",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Wittmund, Lower Saxony",
+        "id": 751
+    },
+    {
+        "code": "WÜ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Würzburg, Bavaria",
+        "id": 752
+    },
+    {
+        "code": "WUG",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Weißenburg-Gunzenhausen, Bavaria",
+        "id": 753
+    },
+    {
+        "code": "WUM",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Waldmünchen, Bavaria",
+        "id": 754
+    },
+    {
+        "code": "WUN",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Wunsiedel am Fichtelgebirge, Bavaria",
+        "id": 755
+    },
+    {
+        "code": "WUR",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Wurzen, Saxony",
+        "id": 756
+    },
+    {
+        "code": "WW",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Westerwaldkreis, Rhineland Palatinate",
+        "id": 757
+    },
+    {
+        "code": "WZ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Wetzlar, Hesse",
+        "id": 758
+    },
+    {
+        "code": "WZL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Wanzleben, Saxony Anhalt",
+        "id": 759
+    },
+    {
+        "code": "X",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "NATO Forces vehicles",
+        "id": 760
+    },
+    {
+        "code": "Y",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Armed Forces vehicles (Bundeswehr)",
+        "id": 761
+    },
+    {
+        "code": "Z",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Zwickauer Land, Saxony (since 1991; previously used for Customs (Zoll) vehicles before 1988)",
+        "id": 762
+    },
+    {
+        "code": "ZE",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Zerbst, Saxony-Anhalt",
+        "id": 763
+    },
+    {
+        "code": "ZEL",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Zell, Rhineland Palatinate",
+        "id": 764
+    },
+    {
+        "code": "ZI",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Löbau-Zittau",
+        "id": 765
+    },
+    {
+        "code": "ZIG",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Ziegenhain, Hesse",
+        "id": 766
+    },
+    {
+        "code": "ZP",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Zschopau, Saxony",
+        "id": 767
+    },
+    {
+        "code": "ZR",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Zeulenroda, Thuringia",
+        "id": 768
+    },
+    {
+        "code": "ZS",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Zossen, Brandenburg",
+        "id": 769
+    },
+    {
+        "code": "ZW",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Zweibrücken, Rhineland Palatinate",
+        "id": 770
+    },
+    {
+        "code": "ZZ",
+        "country": {"code": "DE","id": 1,"name": "Germany"},
+        "name": "Zeitz, Saxony Anhalt",
+        "id": 771
+    }
+]

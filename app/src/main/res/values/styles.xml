@@ -1,0 +1,23 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:popupMenuStyle">@style/popupTheme</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="popupTheme">
+        <item name="android:popupBackground">@android:color/white</item>
+    </style>
+
+    <style name="Autocomplete">
+        <item name="colorControlNormal">@color/autocompleteInactiveColor</item>
+        <item name="colorControlActivated">@color/autocompleteActiveColor</item>
+    </style>
+
+</resources>

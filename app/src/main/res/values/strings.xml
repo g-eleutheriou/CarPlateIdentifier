@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Car Plate Identifier</string>
+    <string name="title_activity_detail_view">Map</string>
+    <string name="title_activity_main2">Region Details</string>
+    <string name="main_view_title">Find the region of any German vehicle registration number</string>
+    <string name="main_view_placeholder">Type any region prefix...</string>
+</resources>
